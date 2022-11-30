@@ -1,8 +1,8 @@
 # E-commerce-rest-api 
-API REST construída usando Node.js, Express.js e MongoDB para um e-commerce.<br/> 
-Esta API, usa promises para consulta ao banco de dados MongoDB.  <br/><br/>
 An E-commerce REST API created using Node.js, Express.js and MongoDB.<br/>
 The API uses promises extensively to query the MongoDB database.
+API REST construída usando Node.js, Express.js e MongoDB para um e-commerce.<br/> 
+Esta API, usa promises para consulta ao banco de dados MongoDB.  <br/><br/>
 
 # Setup
 Após clonar, use "npm install" e exiba o aplicativo usando "node server".<br/>
